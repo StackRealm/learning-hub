@@ -198,12 +198,3 @@ We value every contribution! Contributors will be:
 </p>
 
 ---
-
-## 📞 Questions?
-
-If you have any questions about contributing, feel free to:
-- Open an issue with the `question` label
-- Start a discussion in [GitHub Discussions](https://github.com/StackRealm/learning-hub/discussions)
-- Reach out to the maintainers
-
-**Happy Contributing! 🚀**
